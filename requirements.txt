@@ -1,0 +1,7 @@
+aiogram==3.3.0
+numpy
+opencv-python
+Pillow
+python-dotenv
+ultralytics
+deep-translator
